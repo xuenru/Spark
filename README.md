@@ -1,2 +1,2 @@
 # Spark
-Spark Projects
+PySpark project for movie recommendation
